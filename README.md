@@ -29,10 +29,10 @@ npm install
 ### Running the Project
 
 1. Start the Expo development server:
-npx expo start
+npx expo start --go
 
-2. Open the Expo client on your mobile device or launch the simulator on your computer.
+2. Open the Expo client on your mobile device or launch the simulator on your computer (Press a to open android, press I to open ios).
 
-3. Use the Expo client or simulator to scan the QR code displayed in the terminal or in the browser.
+3. You can scan qr from terminal in real device to open app or use it through a previously launched simulator.
 
 4. The app will be loaded, and you can now explore application
