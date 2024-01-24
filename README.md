@@ -19,7 +19,7 @@ Make sure you have the following software installed on your machine:
 git clone <repository-url>
 
 2. Navigate to the project directory:
-cd project-directory
+cd infinite-scroll
 
 
 3. Install the dependencies:
@@ -29,11 +29,10 @@ npm install
 ### Running the Project
 
 1. Start the Expo development server:
-npm start
- 
+npx expo start
 
-1. Open the Expo client on your mobile device or launch the simulator on your computer.
+2. Open the Expo client on your mobile device or launch the simulator on your computer.
 
-2. Use the Expo client or simulator to scan the QR code displayed in the terminal or in the browser.
+3. Use the Expo client or simulator to scan the QR code displayed in the terminal or in the browser.
 
-3. The app will be loaded, and you can now explore the login, terms, and order creation views.
+4. The app will be loaded, and you can now explore application
