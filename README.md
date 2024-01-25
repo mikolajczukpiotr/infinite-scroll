@@ -16,23 +16,26 @@ Make sure you have the following software installed on your machine:
 ### Installation
 
 1. Clone the repository: 
+```
 git clone <repository-url>
+```
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
+```
 cd infinite-scroll
+```
 
-
-3. Install the dependencies:
+1. Install the dependencies:
+```
 npm install
-
+```
 
 ### Running the Project
 
 1. Start the Expo development server:
+```
 npx expo start --go
-
+```
 2. Open the Expo client on your mobile device or launch the simulator on your computer (Press a to open android, press I to open ios).
-
 3. You can scan qr from terminal in real device to open app or use it through a previously launched simulator.
-
 4. The app will be loaded, and you can now explore application
