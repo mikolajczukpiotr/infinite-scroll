@@ -17,7 +17,7 @@ Make sure you have the following software installed on your machine:
 
 1. Clone the repository: 
 ```
-git clone <repository-url>
+git clone https://github.com/mikolajczukpiotr/infinite-scroll.git
 ```
 
 1. Navigate to the project directory:
@@ -37,5 +37,5 @@ npm install
 npx expo start --go
 ```
 2. Open the Expo client on your mobile device or launch the simulator on your computer (Press a to open android, press I to open ios).
-3. You can scan qr from terminal in real device to open app or use it through a previously launched simulator.
+3. You can scan QR from terminal in real device to open app or use it through a previously launched simulator.
 4. The app will be loaded, and you can now explore application
